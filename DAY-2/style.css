@@ -1,0 +1,19 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: royalblue;
+}
+h1{
+    color:blue;
+    font-style: italic;
+}
+input{
+    border-radius:10%;
+}
+#divForm{
+    height:80%;
+    width:100%;
+    background-color:plum;
+    border: 3px dashed black;
+}
